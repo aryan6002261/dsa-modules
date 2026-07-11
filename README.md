@@ -12,36 +12,6 @@ Whether you're a beginner or preparing for coding interviews, this repository fo
 
 ---
 
-# 🎯 What You'll Learn
-
-- Introduction to DSA
-- Time & Space Complexity
-- Mathematics for DSA
-- Recursion
-- Arrays
-- Strings
-- Sorting Algorithms
-- Searching Algorithms
-- Hashing
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Heaps
-- Tries
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Backtracking
-- Bit Manipulation
-- Advanced Data Structures
-- Advanced Algorithms
-- Competitive Programming Techniques
-- Interview Preparation
-- Mini Projects
-
----
-
 # 🛠 Prerequisites
 
 - Java JDK 17 or later
@@ -54,8 +24,8 @@ Whether you're a beginner or preparing for coding interviews, this repository fo
 # 📌 Learning Roadmap
 
 - [x] Module 01 – Introduction to DSA
-- [ ] Module 02 – Mathematics for DSA
-- [ ] Module 03 – Recursion
+- [x] Module 02 – Mathematics for DSA
+- [x] Module 03 – Recursion
 - [ ] Module 04 – Arrays
 - [ ] Module 05 – Strings
 - [ ] Module 06 – Sorting Algorithms
